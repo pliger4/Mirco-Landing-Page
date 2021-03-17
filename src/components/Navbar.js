@@ -98,7 +98,7 @@ function Navbar() {
       <text title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></text>
       </li>
       <li>
-      <text title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></a>
+      <text title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></text>
       </li>
       <li>
         <i className="fas fa-arrow-right"></i>
