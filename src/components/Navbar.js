@@ -71,34 +71,34 @@ function Navbar() {
         <i className="fas fa-arrow-left"></i>
       </li>
       <li>
-      <a title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Cloud</span></a>
+      <text title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Cloud</span></text>
       </li>
       <li>
-      <a title="Temperature"><i className='fas fa-temperature-high circle-icon'></i><span>Water Temp</span></a>
+      <text title="Temperature"><i className='fas fa-temperature-high circle-icon'></i><span>Water Temp</span></text>
       </li>
       <li>
-      <a title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></a>
+      <text title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></text>
       </li>
       <li>
-      <a title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></a>
+      <text title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></text>
       </li>
       <li>
-      <a title="Temperature"><i className='fas fa-temperature-high circle-icon'></i><span>Temperature</span></a>
+      <text title="Temperature"><i className='fas fa-temperature-high circle-icon'></i><span>Temperature</span></text>
       </li>
       <li>
-      <a title="Temperature"><i className='fas fa-thermometer-empty circle-icon'></i><span>Water Temp</span></a>
+      <text title="Temperature"><i className='fas fa-thermometer-empty circle-icon'></i><span>Water Temp</span></text>
       </li>
       <li>
-      <a title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></a>
+      <text title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></text>
       </li>
       <li>
-      <a title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></a>
+      <text title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></text>
       </li>
       <li>
-      <a title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></a>
+      <text title="Cloud Temp"><i className='fas fa-thermometer circle-icon'></i><span>Cloud Temp</span></text>
       </li>
       <li>
-      <a title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></a>
+      <text title="Cloud"><i className='fas fa-cloud circle-icon'></i><span>Dust Temp</span></a>
       </li>
       <li>
         <i className="fas fa-arrow-right"></i>
